@@ -21,4 +21,26 @@ margin:8px auto;
 #hobby{
 background:linear-gradient(#ffd4f3 0%, #d4ffff 100%);
 }
+.menu{
+list-style:none;
+font-family:sans-serif;
+float:right;
+top:10px;
+right:30px;
+cursor:pointer;
+color:burlywood;
+}
+.links{
+float:left;
+color:burlywood;
+padding-left:10px;
+padding-right:10px;
+padding-top:5px;
+padding-bottom:5px;
+font-family:monospace;
+font-size:20px;
+}
+.links:hover{
+background-color:chocolate;
+}
 
